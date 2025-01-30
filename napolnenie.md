@@ -5,7 +5,7 @@
 ```
 <style>
 @media only screen and (max-width: 1026px) {
-  img {
+  .imgg {
     display: none;
   }
   
@@ -20,7 +20,7 @@
 <h5 style="justify:center; width:97%">Для школьников, студентов и пенсионеров действуют льготы при покупке билета на кассе исторического парка.</h5>
 </div>
 <div>
-<img src=КАРТИНКА  style="height:160pt; border-radius:12px"></img>
+<img class=imgg src=КАРТИНКА  style="height:160pt; border-radius:12px"></img>
 </div>
 </div>
 ```
