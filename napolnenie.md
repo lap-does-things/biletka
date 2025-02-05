@@ -5,12 +5,15 @@
 Выбираем менюшку для описания (отмечена стрелочкой), и вставляем следующее : <br>
 ```
 <style>
+<style>
 @media only screen and (max-width: 1026px) {
   .imgg {
     display: none;
   }
-  
 }
+  .notice{
+     display:none !important;
+)
 </style>
 
 <div class='div_goida' style="display:flex; flex-direction: row;">
